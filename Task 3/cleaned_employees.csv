@@ -1,0 +1,9 @@
+employee_id,name,department,age,salary
+E001,Arun,Sales,25,52000.0
+E002,Priya,Sales,28,60000.0
+E003,Ravi,HR,30,48000.0
+E004,Meena,HR,27,51000.0
+E005,Kiran,IT,32,75000.0
+E006,Divya,IT,26,60000.0
+E007,Ajay,Finance,35,68000.0
+E008,Anu,Finance,29,70000.0
