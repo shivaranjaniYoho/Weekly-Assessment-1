@@ -1,0 +1,20 @@
+HR EMPLOYEE ANALYSIS REPORT
+---------------------------
+
+Total Employees: 8
+Average Salary: 58500.0
+Highest Salary: 90000
+Lowest Salary: 30000
+
+DEPARTMENT-WISE AVERAGE SALARY
+Finance: 90000.0
+HR: 46500.0
+IT: 67666.67
+Sales: 41000.0
+
+EMPLOYEES WITH SALARY ABOVE 50000
+Rahul
+Divya
+Karthik
+Meena
+Suresh
